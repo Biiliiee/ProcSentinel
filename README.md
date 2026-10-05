@@ -49,10 +49,7 @@ gcc ProcSentinel.c -lwininet -o ProcSentinel.exe
 .\ProcSentinel.exe
 ```
 
-Ou utilizar o script auxiliar incluso no repositório:
-
-```cmd
-run64.bat ProcSentinel.c
+Ou utilizar o script auxiliar incluso no  ProcSentinel.c
 ```
 
 ---
