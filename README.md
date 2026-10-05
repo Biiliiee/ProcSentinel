@@ -1,4 +1,4 @@
-# 🛡️ ProcSentinel — Real-Time Windows Process Monitor & Discord Alert System
+# ProcSentinel — Real-Time Windows Process Monitor & Discord Alert System
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6.svg)
